@@ -1,0 +1,8 @@
+D:\ps\PS-20\PS-20\bin\Debug\PS-20.exe.config
+D:\ps\PS-20\PS-20\bin\Debug\PS-20.exe
+D:\ps\PS-20\PS-20\bin\Debug\PS-20.pdb
+D:\ps\PS-20\PS-20\obj\Debug\PS-20.csproj.AssemblyReference.cache
+D:\ps\PS-20\PS-20\obj\Debug\PS-20.csproj.SuggestedBindingRedirects.cache
+D:\ps\PS-20\PS-20\obj\Debug\PS-20.csproj.CoreCompileInputs.cache
+D:\ps\PS-20\PS-20\obj\Debug\PS-20.exe
+D:\ps\PS-20\PS-20\obj\Debug\PS-20.pdb
